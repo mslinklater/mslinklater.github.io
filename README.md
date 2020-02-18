@@ -1,2 +1,2 @@
 # mslinklater.github.io
-Personal website
+Account website - built with Jekyll
